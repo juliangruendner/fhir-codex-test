@@ -688,8 +688,8 @@
     "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
   },
   {
-    "category": "",
-    "name": "",
+    "category": "age",
+    "name": "age",
     "code": "424144002",
     "system": "http://snomed.info/sct",
     "query": "/Patient?codex-age=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ca&_summary=count",
@@ -1032,8 +1032,8 @@
     "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
   },
   {
-    "category": "",
-    "name": "",
+    "category": "ethnic-group",
+    "name": "ethnic-group",
     "code": "372148003",
     "system": "http://snomed.info/sct",
     "query": "/Patient?codex-ethnicity=http%3A%2F%2Fsnomed.info%2Fsct%7C26242008&_summary=count",
