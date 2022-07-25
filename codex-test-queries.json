@@ -1,0 +1,1668 @@
+[
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "body-weight",
+    "code": "27113001",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C27113001&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ckg&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|27113001&value-quantity=gt0|http://unitsofmeasure.org|kg&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "",
+    "code": "424144002",
+    "system": "http://snomed.info/sct",
+    "query": "/Patient?codex-age=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ca&_summary=count",
+    "query_decoded": "/Patient?codex-age=gt0|http://unitsofmeasure.org|a&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "smoking-status",
+    "code": "72166-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C72166-2&value-concept=http%3A%2F%2Floinc.org%7CLA18978-9&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|72166-2&value-concept=http://loinc.org|LA18978-9&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "",
+    "code": "372148003",
+    "system": "http://snomed.info/sct",
+    "query": "/Patient?codex-ethnicity=http%3A%2F%2Fsnomed.info%2Fsct%7C26242008&_summary=count",
+    "query_decoded": "/Patient?codex-ethnicity=http://snomed.info/sct|26242008&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "94500-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94500-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94500-6&value-concept=http://snomed.info/sct|260373001&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "patient-in-icu",
+    "code": "95420-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C95420-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C373067005&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|95420-6&value-concept=http://snomed.info/sct|373067005&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "respiratory-therapies",
+    "code": "53950000",
+    "system": "http://snomed.info/sct",
+    "query": "/Procedure?code=http%3A%2F%2Fsnomed.info%2Fsct%7C53950000&_summary=count",
+    "query_decoded": "/Procedure?code=http://snomed.info/sct|53950000&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2160-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6690-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "89579-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "731-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "oxygen-saturation",
+    "code": "2708-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "respiratory-rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "body-temperature",
+    "code": "8310-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "33959-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "heart-rate",
+    "code": "8867-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "718-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "751-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "48065-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "name": "ObservationLab",
+    "code": "6301-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+  }
+]
