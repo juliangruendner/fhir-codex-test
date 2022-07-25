@@ -59,14 +59,14 @@ with open("codex-test-queries.json", 'r') as f:
     with open('codex-check-results.csv', 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=';',
                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        header = ['Name', 'Code', 'System', 'Status', 'Number Results', 'FHIR Search']
+        header = ['Category', 'Name', 'Code', 'System', 'Status', 'Number Results', 'FHIR Search']
         csv_writer.writerow(header)
         for query in json_input:
             query_result = execute_query(query['query'])
 
             if query_result['status'] != "failed":
-                row_to_write = [query['name'],query['code'], query['system'],'sucess', query_result['json']['total'],query['query_decoded']]
+                row_to_write = [query['category'], query['name'], query['code'], query['system'], 'sucess', query_result['json']['total'],query['query_decoded']]
             else:
-                row_to_write = [query['name'],query['code'], query['system'],'failed','', query['query_decoded']]
+                row_to_write = [query['category'], query['name'], query['code'], query['system'], 'failed', '', query['query_decoded']]
 
             csv_writer.writerow(row_to_write)
