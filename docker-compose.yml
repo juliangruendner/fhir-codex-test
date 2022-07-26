@@ -1,0 +1,8 @@
+version: '3'
+services:
+  fhir-codex-status:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - "./results:/app/results"
