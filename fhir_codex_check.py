@@ -6,10 +6,11 @@ from urllib.parse import parse_qs
 from json.decoder import JSONDecodeError
 from requests.auth import HTTPBasicAuth
 import csv
+import os
 
-fhir_user = None
-fhir_pw = None
-fhir_base_url = 'http://localhost:8081/fhir'
+fhir_user = os.getenv('FHIR_USER')
+fhir_pw = os.getenv('FHIR_PW')
+fhir_base_url = os.getenv('FHIR_URL')
 
 
 def query_successful(query_url, resp_links):
@@ -56,7 +57,7 @@ def execute_query(query):
 
 with open("codex-test-queries.json", 'r') as f:
     json_input = json.load(f)
-    with open('codex-check-results.csv', 'w', newline='') as csvfile:
+    with open('./results/codex-check-results.csv', 'w', newline='') as csvfile:
         csv_writer = csv.writer(csvfile, delimiter=';',
                                 quotechar='"', quoting=csv.QUOTE_MINIMAL)
         header = ['Category', 'Name', 'Code', 'System', 'Status', 'Number Results', 'FHIR Search']

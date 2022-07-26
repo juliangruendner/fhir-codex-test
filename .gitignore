@@ -1,1 +1,11 @@
-codex-check-results.csv
+/*
+/*/
+
+!/.gitignore
+!/demo.env
+!/codex-test-queries.json
+!/docker-compose.yml
+!/Dockerfile
+!/fhir_codex_check.py
+!/README.md
+!/requirements.txt

@@ -1,9 +1,8 @@
 # fhir-codex-test
 
-Adjust lines 10-13 in `fhir_codex_check.py` to your requirements and
-execute with `python3 fhir_codex_check.py`
+Copy the [`demo.env`](./demo.env) file to `.env` and adjust the variables.
 
-This will generate a `codex-check-results.csv` file in your repository
+Run `docker-compose up` - this will generate a `codex-check-results.csv` file within the folder `results` in your repository.
 
 ## Requirements
 
