@@ -1,8 +1,7 @@
 # fhir-codex-test
 
-Copy the [`demo.env`](./demo.env) file to `.env` and adjust the variables.
-
-Run `docker-compose up` - this will generate a `codex-check-results.csv` file within the folder `results` in your repository.
+1. Copy the [`demo.env`](./demo.env) file to `.env` and adjust the variables.
+2. Run `docker-compose up`. This will generate a `./results/codex-check-results.csv` file within in your repository.
 
 ## Requirements
 
