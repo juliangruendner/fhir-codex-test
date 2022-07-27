@@ -1,51 +1,19 @@
 [
   {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
     "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
+    "name": "leukocytes-in-blood-by-automated-count",
     "code": "6690-2",
     "system": "http://loinc.org",
     "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
     "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
+    "category": "body-temperature",
+    "name": "Body temperature",
+    "code": "8310-5",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
   },
   {
     "category": "ObservationLab",
@@ -57,19 +25,11 @@
   },
   {
     "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
+    "name": "creatinine-in-serum-or-plasma",
+    "code": "2160-0",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
   },
   {
     "category": "oxygen-saturation",
@@ -77,111 +37,23 @@
     "code": "2708-6",
     "system": "http://loinc.org",
     "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0|http://unitsofmeasure.org|%&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "B02AB04",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CB02AB04&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|B02AB04&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
+    "name": "hemoglobin-in-blood",
     "code": "718-7",
     "system": "http://loinc.org",
     "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
     "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
   },
   {
     "category": "ObservationLab",
@@ -192,390 +64,6 @@
     "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
     "category": "heart-rate",
     "name": "Heart rate",
     "code": "8867-4",
@@ -592,76 +80,12 @@
     "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
+    "category": "sars-cov-2-rt-pcr",
+    "name": "sars-cov-2-covid-19-rna-in-respiratory-specimen-by-naa-with-probe-detection",
+    "code": "94500-6",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "body-weight",
-    "name": "",
-    "code": "27113001",
-    "system": "http://snomed.info/sct",
-    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C27113001&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ckg&_summary=count",
-    "query_decoded": "/Observation?code=http://snomed.info/sct|27113001&value-quantity=gt0|http://unitsofmeasure.org|kg&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94500-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94500-6&value-concept=http://snomed.info/sct|260373001&_summary=count"
   },
   {
     "category": "ObservationLab",
@@ -673,11 +97,195 @@
   },
   {
     "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
+    "name": "lymphocytes-in-blood-by-automated-count",
+    "code": "731-0",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-igm-ser-pl-ia-acnc",
+    "name": "sars-cov-2-covid-19-igm-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94506-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94506-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5Barb%27U%5D%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94506-3&value-quantity=gt0|http://unitsofmeasure.org|[arb'U]/mL&_summary=count"
+  },
+  {
+    "category": "body-height",
+    "name": "body-height",
+    "code": "50373000",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C50373000&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ccm&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|50373000&value-quantity=gt0|http://unitsofmeasure.org|cm&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "G35",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CG35&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|G35&_summary=count"
+  },
+  {
+    "category": "human-immunodeficiency-virus-infection",
+    "name": "human-immunodeficiency-virus-infection",
+    "code": "86406008",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C86406008&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|86406008&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AP01",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AP01&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AP01&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Platelets [#/volume] in Blood by Automated count",
+    "code": "777-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-iga-ser-pl-ia-acnc",
+    "name": "sars-cov-2-covid-19-iga-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94720-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94720-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5BIU%5D%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94720-0&value-quantity=gt0|http://unitsofmeasure.org|[IU]/mL&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I25.29",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI25.29&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I25.29&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
+    "code": "1975-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "bilirubin.total-in-serum-or-plasma",
+    "code": "14631-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14631-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cumol%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14631-6&value-quantity=gt0|http://unitsofmeasure.org|umol/L&_summary=count"
+  },
+  {
+    "category": "complications-covid-19",
+    "name": "complications-covid-19",
+    "code": "A41.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CA41.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|A41.9&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "333710000",
+    "system": "http://snomed.info/sct",
+    "query": "/MedicationStatement?medication.code=http%3A%2F%2Fsnomed.info%2Fsct%7C333710000&_summary=count",
+    "query_decoded": "/MedicationStatement?medication.code=http://snomed.info/sct|333710000&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I65.2",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI65.2&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I65.2&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "A11CC06",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CA11CC06&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|A11CC06&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-ab-ser-pl-ia-acnc",
+    "name": "sars-cov-2-covid-19-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94769-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94769-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5BIU%5D%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94769-7&value-quantity=gt0|http://unitsofmeasure.org|[IU]/mL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
+    "code": "14804-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "6-002.b",
+    "system": "http://fhir.de/CodeSystem/bfarm/ops",
+    "query": "/Procedure?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fops%7C6-002.b&_summary=count",
+    "query_decoded": "/Procedure?code=http://fhir.de/CodeSystem/bfarm/ops|6-002.b&_summary=count"
+  },
+  {
+    "category": "complications-covid-19",
+    "name": "complications-covid-19",
+    "code": "I64",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI64&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I64&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "L04AC",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CL04AC&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|L04AC&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Albumin [Mass/volume] in Serum or Plasma",
+    "code": "1751-7",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "category": "immunization",
+    "name": "immunization",
+    "code": "836398006",
+    "system": "http://snomed.info/sct",
+    "query": "/Immunization?vaccine-code=http%3A%2F%2Fsnomed.info%2Fsct%7C836398006&_summary=count",
+    "query_decoded": "/Immunization?vaccine-code=http://snomed.info/sct|836398006&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
+    "code": "1920-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "category": "complications-covid-19",
+    "name": "complications-covid-19",
+    "code": "I82.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI82.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I82.9&_summary=count"
   },
   {
     "category": "ObservationLab",
@@ -686,6 +294,358 @@
     "system": "http://loinc.org",
     "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
     "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "category": "rheumatological-immunological-diseases",
+    "name": "rheumatological-immunological-diseases",
+    "code": "M35.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CM35.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|M35.9&_summary=count"
+  },
+  {
+    "category": "body-temperature",
+    "name": "body-temperature",
+    "code": "386725007",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C386725007&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|386725007&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "ferritin-goal-serum-or-plasma",
+    "code": "86914-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C86914-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|86914-9&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "platelets-in-plasma",
+    "code": "26516-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C26516-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|26516-5&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "fibrinogen-in-platelet-poor-plasma-by-heat-denaturation",
+    "code": "30902-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C30902-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|30902-1&value-quantity=gt0|http://unitsofmeasure.org|g/L&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "P01BA01",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CP01BA01&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|P01BA01&_summary=count"
+  },
+  {
+    "category": "study-inclusion-covid-19",
+    "name": "Study inclusion due to Covid-19",
+    "code": "02",
+    "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/ecrf-parameter-codes",
+    "query": "/Observation?code=https%3A%2F%2Fwww.netzwerk-universitaetsmedizin.de%2Ffhir%2FCodeSystem%2Fecrf-parameter-codes%7C02&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C373066001&_summary=count",
+    "query_decoded": "/Observation?code=https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/ecrf-parameter-codes|02&value-concept=http://snomed.info/sct|373066001&_summary=count"
+  },
+  {
+    "category": "known-exposure",
+    "name": "known-exposure",
+    "code": "88636-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C88636-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C840546002&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|88636-6&value-concept=http://snomed.info/sct|840546002&_summary=count"
+  },
+  {
+    "category": "",
+    "name": "",
+    "code": "372148003",
+    "system": "http://snomed.info/sct",
+    "query": "/Patient?codex-ethnicity=http%3A%2F%2Fsnomed.info%2Fsct%7C26242008&_summary=count",
+    "query_decoded": "/Patient?codex-ethnicity=http://snomed.info/sct|26242008&_summary=count"
+  },
+  {
+    "category": "history-of-travel",
+    "name": "history-of-travel",
+    "code": "8691-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8691-8&component-value-concept=urn%3Aiso%3Astd%3Aiso%3A3166%7CAO&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|8691-8&component-value-concept=urn:iso:std:iso:3166|AO&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I25.1",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI25.1&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I25.1&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "13645005",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C13645005&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|13645005&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-igm-ser-pl-ql-ia",
+    "name": "sars-cov-2-covid-19-igm-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94564-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94564-2&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94564-2&value-concept=http://snomed.info/sct|260373001&_summary=count"
+  },
+  {
+    "category": "smoking-status",
+    "name": "Tobacco smoking status",
+    "code": "72166-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C72166-2&value-concept=http%3A%2F%2Floinc.org%7CLA18976-3&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|72166-2&value-concept=http://loinc.org|LA18976-3&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "Ferritin [Mass/volume] in Serum or Plasma",
+    "code": "2276-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
+  },
+  {
+    "category": "respiratory-rate",
+    "name": "Respiratory rate",
+    "code": "9279-1",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "L04AC14",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CL04AC14&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|L04AC14&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "lactate-in-serum-or-plasma",
+    "code": "14118-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14118-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14118-4&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "procalcitonin-in-serum-or-plasma-by-immunoassay",
+    "code": "75241-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C75241-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|75241-0&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "78275009",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C78275009&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|78275009&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "G40.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CG40.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|G40.9&_summary=count"
+  },
+  {
+    "category": "pregnancy-status",
+    "name": "pregnancy-status",
+    "code": "82810-3",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C82810-3&value-concept=http%3A%2F%2Floinc.org%7CLA15173-0,http%3A%2F%2Fsnomed.info%2Fsct%7C77386006&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|82810-3&value-concept=http://loinc.org|LA15173-0,http://snomed.info/sct|77386006&_summary=count"
+  },
+  {
+    "category": "carbon-dioxide-partial-pressure",
+    "name": "carbon-dioxide-partial-pressure",
+    "code": "11557-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C11557-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmm%5BHg%5D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|11557-6&value-quantity=gt0|http://unitsofmeasure.org|mm[Hg]&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "Z95.5",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ95.5&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z95.5&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "G20",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CG20&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|G20&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "aptt-in-blood-by-coagulation-11-saline",
+    "code": "16631-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C16631-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cs&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|16631-4&value-quantity=gt0|http://unitsofmeasure.org|s&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "70995007",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C70995007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|70995007&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "F32.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CF32.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|F32.9&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "190905008",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C190905008&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|190905008&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "41549009",
+    "system": "http://snomed.info/sct",
+    "query": "/MedicationStatement?medication.code=http%3A%2F%2Fsnomed.info%2Fsct%7C41549009&_summary=count",
+    "query_decoded": "/MedicationStatement?medication.code=http://snomed.info/sct|41549009&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "c-reactive-protein-in-capillary-blood",
+    "code": "48421-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48421-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48421-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+  },
+  {
+    "category": "body-weight",
+    "name": "body-weight",
+    "code": "27113001",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C27113001&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Ckg&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|27113001&value-quantity=gt0|http://unitsofmeasure.org|kg&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "gamma-glutamyl-transferase-aspartate-aminotransferase-in-serum-or-plasma",
+    "code": "2325-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2325-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|2325-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "albumin-in-serum-or-plasma-by-bromocresol-purple-bcp-dye-binding-method",
+    "code": "61152-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C61152-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|61152-5&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+  },
+  {
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.4",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.4&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.4&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "422400008",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C422400008&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C24484000&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|422400008&severity=http://snomed.info/sct|24484000&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy-anticoagulants",
+    "name": "pharmacological-therapy-anticoagulants",
+    "code": "81839001",
+    "system": "http://snomed.info/sct",
+    "query": "/MedicationStatement?medication.code=http%3A%2F%2Fsnomed.info%2Fsct%7C81839001&_summary=count",
+    "query_decoded": "/MedicationStatement?medication.code=http://snomed.info/sct|81839001&_summary=count"
+  },
+  {
+    "category": "chronic-liver-diseases",
+    "name": "chronic-liver-diseases",
+    "code": "K76.0",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CK76.0&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|K76.0&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "195967001",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C195967001&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|195967001&_summary=count"
+  },
+  {
+    "category": "rheumatological-immunological-diseases",
+    "name": "rheumatological-immunological-diseases",
+    "code": "K52.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CK52.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|K52.9&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I50.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI50.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I50.9&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
+    "code": "1988-5",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I49.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI49.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I49.9&_summary=count"
+  },
+  {
+    "category": "rheumatological-immunological-diseases",
+    "name": "rheumatological-immunological-diseases",
+    "code": "I77.6",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI77.6&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I77.6&_summary=count"
   },
   {
     "category": "age",
@@ -696,700 +656,292 @@
     "query_decoded": "/Patient?codex-age=gt0|http://unitsofmeasure.org|a&_summary=count"
   },
   {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.7",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.7&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.7&_summary=count"
   },
   {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "smoking-status",
-    "name": "Tobacco smoking status",
-    "code": "72166-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C72166-2&value-concept=http%3A%2F%2Floinc.org%7CLA18978-9&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|72166-2&value-concept=http://loinc.org|LA18978-9&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ethnic-group",
-    "name": "ethnic-group",
-    "code": "372148003",
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "267036007",
     "system": "http://snomed.info/sct",
-    "query": "/Patient?codex-ethnicity=http%3A%2F%2Fsnomed.info%2Fsct%7C26242008&_summary=count",
-    "query_decoded": "/Patient?codex-ethnicity=http://snomed.info/sct|26242008&_summary=count"
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C267036007&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C442452003&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|267036007&severity=http://snomed.info/sct|442452003&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "SARS-CoV-2 (COVID-19) RNA [Presence] in Respiratory specimen by NAA with probe detection",
-    "code": "94500-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94500-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|94500-6&value-concept=http://snomed.info/sct|260373001&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.6",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.6&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.6&_summary=count"
   },
   {
     "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
+    "name": "heart-rate",
+    "code": "364075005",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C364075005&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|364075005&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "M04AC01",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CM04AC01&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|M04AC01&_summary=count"
+  },
+  {
+    "category": "discharge-disposition",
+    "name": "discharge-disposition",
+    "code": "55128-3",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C55128-3&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C371827001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|55128-3&value-concept=http://snomed.info/sct|371827001&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "Z86.7",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ86.7&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z86.7&_summary=count"
+  },
+  {
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.1",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.1&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.1&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AR10",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AR10&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AR10&_summary=count"
+  },
+  {
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.88",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.88&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.88&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
+    "name": "neutrophils-in-blood",
+    "code": "26499-4",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C26499-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|26499-4&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "21522001",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C21522001&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C6736007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|21522001&severity=http://snomed.info/sct|6736007&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
+    "name": "antithrombin-in-platelet-poor-plasma-by-chromogenic-method",
+    "code": "3174-0",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C3174-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5BIU%5D%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|3174-0&value-quantity=gt0|http://unitsofmeasure.org|[IU]/mL&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AE08",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AE08&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AE08&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
+    "name": "fibrin-d-dimer-ddu-in-platelet-poor-plasma",
+    "code": "48066-5",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48066-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48066-5&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
+  },
+  {
+    "category": "complications-covid-19",
+    "name": "complications-covid-19",
+    "code": "128601007",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C128601007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|128601007&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "51615001",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C51615001&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|51615001&_summary=count"
+  },
+  {
+    "category": "complications-covid-19",
+    "name": "complications-covid-19",
+    "code": "I26.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI26.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I26.9&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "426000000",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C426000000&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C6736007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|426000000&severity=http://snomed.info/sct|6736007&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AR14",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AR14&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AR14&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "62315008",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C62315008&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C6736007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|62315008&severity=http://snomed.info/sct|6736007&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "G43.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CG43.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|G43.9&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
+    "name": "inr-in-capillary-blood-by-coagulation-assay",
+    "code": "46418-0",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C46418-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|46418-0&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
+    "category": "sars-cov-2-igg-ser-pl-ia-acnc",
+    "name": "sars-cov-2-covid-19-igg-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94505-5",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94505-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5Barb%27U%5D%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94505-5&value-quantity=gt0|http://unitsofmeasure.org|[arb'U]/mL&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
+    "category": "interventional-clinical-trial-participation",
+    "name": "Participation in interventional clinical trials",
+    "code": "03",
+    "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/ecrf-parameter-codes",
+    "query": "/Observation?code=https%3A%2F%2Fwww.netzwerk-universitaetsmedizin.de%2Ffhir%2FCodeSystem%2Fecrf-parameter-codes%7C03&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C373067005&_summary=count",
+    "query_decoded": "/Observation?code=https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/ecrf-parameter-codes|03&value-concept=http://snomed.info/sct|373067005&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.9&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
+    "category": "rheumatological-immunological-diseases",
+    "name": "rheumatological-immunological-diseases",
+    "code": "D84.8",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CD84.8&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|D84.8&_summary=count"
+  },
+  {
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.2",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.2&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.2&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AR15",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AR15&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AR15&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "25064002",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C25064002&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C255604002&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|25064002&severity=http://snomed.info/sct|255604002&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-iga-ser-pl-ql-ia",
+    "name": "sars-cov-2-covid-19-iga-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94562-6",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94562-6&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94562-6&value-concept=http://snomed.info/sct|260373001&_summary=count"
+  },
+  {
+    "category": "frailty-score",
+    "name": "frailty-score",
+    "code": "763264000",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C763264000&value-concept=https%3A%2F%2Fwww.netzwerk-universitaetsmedizin.de%2Ffhir%2FCodeSystem%2Ffrailty-score%7C9&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|763264000&value-concept=https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/frailty-score|9&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AH02",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AH02&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AH02&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "422587007",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C422587007&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C24484000&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|422587007&severity=http://snomed.info/sct|24484000&_summary=count"
+  },
+  {
+    "category": "sofa-score",
+    "name": "SOFA-Score",
+    "code": "06",
+    "system": "https://www.netzwerk-universitaetsmedizin.de/fhir/CodeSystem/ecrf-parameter-codes",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C422587007&severity=http%3A%2F%2Fsnomed.info%2Fsct%7C24484000&_summary=count&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|422587007&severity=http://snomed.info/sct|24484000&_summary=count&_summary=count"
+  },
+  {
+    "category": "chronic-lung-diseases",
+    "name": "chronic-lung-diseases",
+    "code": "190966007",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C190966007&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|190966007&_summary=count"
   },
   {
     "category": "patient-in-icu",
@@ -1401,63 +953,287 @@
   },
   {
     "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
+    "name": "lactate-dehydrogenase-in-body-fluid-by-lactate-to-pyruvate-reaction",
+    "code": "14803-1",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14803-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|14803-1&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
   },
   {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "A12CB",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CA12CB&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|A12CB&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AX27",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AX27&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AX27&_summary=count"
   },
   {
     "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
+    "name": "interleukin-6-in-serum-or-plasma",
+    "code": "44322-6",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C44322-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|44322-6&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "natriuretic-peptide.b-prohormone-n-terminal-in-serum-or-plasma",
+    "code": "33762-6",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33762-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|33762-6&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
+  },
+  {
+    "category": "rheumatological-immunological-diseases",
+    "name": "rheumatological-immunological-diseases",
+    "code": "M06.99",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CM06.99&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|M06.99&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "F03",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CF03&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|F03&_summary=count"
+  },
+  {
+    "category": "immunization",
+    "name": "immunization",
+    "code": "836402002",
+    "system": "http://snomed.info/sct",
+    "query": "/Immunization?vaccine-code=http%3A%2F%2Fsnomed.info%2Fsct%7C836402002&_summary=count",
+    "query_decoded": "/Immunization?vaccine-code=http://snomed.info/sct|836402002&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "D11AX22",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CD11AX22&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|D11AX22&_summary=count"
+  },
+  {
+    "category": "inhaled-oxygen-concentration",
+    "name": "inhaled-oxygen-concentration",
+    "code": "3150-0",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C3150-0&value-concept=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|3150-0&value-concept=gt0|http://unitsofmeasure.org|%&_summary=count"
+  },
+  {
+    "category": "organ-recipient",
+    "name": "organ-recipient",
+    "code": "Z94.0",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ94.0&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z94.0&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I10.90",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI10.90&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I10.90&_summary=count"
+  },
+  {
+    "category": "pH",
+    "name": "pH",
+    "code": "11558-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C11558-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%5BpH%5D&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|11558-4&value-quantity=gt0|http://unitsofmeasure.org|[pH]&_summary=count"
+  },
+  {
+    "category": "ObservationLab",
+    "name": "aspartate-aminotransferase-in-serum-or-plasma-by-no-addition-of-p-5-p",
+    "code": "88112-8",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C88112-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|88112-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+  },
+  {
+    "category": "diagnosis-covid-19",
+    "name": "Disease caused by Severe acute respiratory syndrome coronavirus 2 (disorder)",
+    "code": "840539006",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C840539006&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|840539006&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-igg-ser-pl-ql-ia",
+    "name": "sars-cov-2-covid-19-igg-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94563-4",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94563-4&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260373001&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94563-4&value-concept=http://snomed.info/sct|260373001&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "J05AB06",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CJ05AB06&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|J05AB06&_summary=count"
+  },
+  {
+    "category": "symptoms-covid-19",
+    "name": "symptoms-covid-19",
+    "code": "49727002",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C49727002&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|49727002&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "F41.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CF41.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|F41.9&_summary=count"
+  },
+  {
+    "category": "sex-assigned-at-birth",
+    "name": "sex-assigned-at-birth",
+    "code": "76689-9",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C76689-9&value-concept=http%3A%2F%2Fhl7.org%2Ffhir%2Fadministrative-gender%7Cfemale&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|76689-9&value-concept=http://hl7.org/fhir/administrative-gender|female&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "N02B",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CN02B&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|N02B&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "P01BA02",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CP01BA02&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|P01BA02&_summary=count"
+  },
+  {
+    "category": "immunization",
+    "name": "immunization",
+    "code": "836377006",
+    "system": "http://snomed.info/sct",
+    "query": "/Immunization?vaccine-code=http%3A%2F%2Fsnomed.info%2Fsct%7C836377006&_summary=count",
+    "query_decoded": "/Immunization?vaccine-code=http://snomed.info/sct|836377006&_summary=count"
+  },
+  {
+    "category": "chronic-kidney-diseases",
+    "name": "chronic-kidney-diseases",
+    "code": "Z99.2",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CZ99.2&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|Z99.2&_summary=count"
+  },
+  {
+    "category": "sars-cov-2-ab-ser-pl-ql-ia",
+    "name": "sars-cov-2-covid-19-ab-in-serum-or-plasma-by-immunoassay",
+    "code": "94762-2",
+    "system": "http://loinc.org",
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C94762-2&value-concept=http%3A%2F%2Fsnomed.info%2Fsct%7C260415000&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|94762-2&value-concept=http://snomed.info/sct|260415000&_summary=count"
+  },
+  {
+    "category": "chronic-liver-diseases",
+    "name": "chronic-liver-diseases",
+    "code": "B18.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CB18.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|B18.9&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "6-005.n",
+    "system": "http://fhir.de/CodeSystem/bfarm/ops",
+    "query": "/Procedure?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fops%7C6-005.n&_summary=count",
+    "query_decoded": "/Procedure?code=http://fhir.de/CodeSystem/bfarm/ops|6-005.n&_summary=count"
+  },
+  {
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "G01B",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CG01B&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|G01B&_summary=count"
+  },
+  {
+    "category": "gastrointestinal-ulcers",
+    "name": "gastrointestinal-ulcers",
+    "code": "40845000",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C40845000&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|40845000&_summary=count"
+  },
+  {
+    "category": "cardiovascular-diseases",
+    "name": "cardiovascular-diseases",
+    "code": "I73.9",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CI73.9&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|I73.9&_summary=count"
+  },
+  {
+    "category": "dependence-on-ventilator",
+    "name": "dependence-on-ventilator",
+    "code": "444932008",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C444932008&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|444932008&_summary=count"
+  },
+  {
+    "category": "chronic-neurological-mental-diseases",
+    "name": "chronic-neurological-mental-diseases",
+    "code": "F29",
+    "system": "http://fhir.de/CodeSystem/bfarm/icd-10-gm",
+    "query": "/Condition?code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Ficd-10-gm%7CF29&_summary=count",
+    "query_decoded": "/Condition?code=http://fhir.de/CodeSystem/bfarm/icd-10-gm|F29&_summary=count"
   },
   {
     "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
+    "name": "respiratory-rate",
+    "code": "86290005",
+    "system": "http://snomed.info/sct",
+    "query": "/Observation?code=http%3A%2F%2Fsnomed.info%2Fsct%7C86290005&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
+    "query_decoded": "/Observation?code=http://snomed.info/sct|86290005&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
   },
   {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
+    "category": "malignant-neoplastic-disease",
+    "name": "malignant-neoplastic-disease",
+    "code": "363346000",
+    "system": "http://snomed.info/sct",
+    "query": "/Condition?code=http%3A%2F%2Fsnomed.info%2Fsct%7C363346000&_summary=count",
+    "query_decoded": "/Condition?code=http://snomed.info/sct|363346000&_summary=count"
   },
   {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
+    "category": "pharmacological-therapy",
+    "name": "pharmacological-therapy",
+    "code": "S01AD05",
+    "system": "http://fhir.de/CodeSystem/bfarm/atc",
+    "query": "/MedicationAdministration?medication.code=http%3A%2F%2Ffhir.de%2FCodeSystem%2Fbfarm%2Fatc%7CS01AD05&_summary=count",
+    "query_decoded": "/MedicationAdministration?medication.code=http://fhir.de/CodeSystem/bfarm/atc|S01AD05&_summary=count"
   },
   {
     "category": "respiratory-therapies",
-    "name": "",
+    "name": "respiratory-therapies",
     "code": "53950000",
     "system": "http://snomed.info/sct",
     "query": "/Procedure?code=http%3A%2F%2Fsnomed.info%2Fsct%7C53950000&_summary=count",
@@ -1465,442 +1241,10 @@
   },
   {
     "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
+    "name": "troponin-t.cardiac-in-blood",
+    "code": "48425-3",
     "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Creatinine [Mass/volume] in Serum or Plasma",
-    "code": "2160-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2160-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2160-0&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Leukocytes [#/volume] in Blood by Automated count",
-    "code": "6690-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6690-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6690-2&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction",
-    "code": "14804-9",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C14804-9&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|14804-9&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "C reactive protein [Mass/volume] in Serum or Plasma",
-    "code": "1988-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1988-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1988-5&value-quantity=gt0|http://unitsofmeasure.org|mg/L&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Troponin I.cardiac [Mass/volume] in Serum or Plasma by High sensitivity method",
-    "code": "89579-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C89579-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cpg%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|89579-7&value-quantity=gt0|http://unitsofmeasure.org|pg/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma",
-    "code": "1920-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1920-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CU%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1920-8&value-quantity=gt0|http://unitsofmeasure.org|U/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Lymphocytes [#/volume] in Blood by Automated count",
-    "code": "731-0",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C731-0&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|731-0&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Albumin [Mass/volume] in Serum or Plasma",
-    "code": "1751-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1751-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1751-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "oxygen-saturation",
-    "name": "Oxygen saturation in Arterial blood",
-    "code": "2708-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2708-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%25&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2708-6&value-quantity=gt0%&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "respiratory-rate",
-    "name": "Respiratory rate",
-    "code": "9279-1",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C9279-1&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|9279-1&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "body-temperature",
-    "name": "Body temperature",
-    "code": "8310-5",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8310-5&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7CCel&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8310-5&value-quantity=gt0|http://unitsofmeasure.org|Cel&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Ferritin [Mass/volume] in Serum or Plasma",
-    "code": "2276-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C2276-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|2276-4&value-quantity=gt0|http://unitsofmeasure.org|ug/L&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Procalcitonin [Mass/volume] in Serum or Plasma",
-    "code": "33959-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C33959-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|33959-8&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
-  },
-  {
-    "category": "heart-rate",
-    "name": "Heart rate",
-    "code": "8867-4",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C8867-4&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%2Fmin&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|8867-4&value-quantity=gt0|http://unitsofmeasure.org|/min&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Hemoglobin [Mass/volume] in Blood",
-    "code": "718-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C718-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|718-7&value-quantity=gt0|http://unitsofmeasure.org|g/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Bilirubin.total [Mass/volume] in Serum or Plasma",
-    "code": "1975-2",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C1975-2&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cmg%2FdL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|1975-2&value-quantity=gt0|http://unitsofmeasure.org|mg/dL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Neutrophils [#/volume] in Blood by Automated count",
-    "code": "751-8",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C751-8&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|751-8&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Fibrin D-dimer FEU [Mass/volume] in Platelet poor plasma",
-    "code": "48065-7",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48065-7&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cug%2FmL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|48065-7&value-quantity=gt0|http://unitsofmeasure.org|ug/mL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "Platelets [#/volume] in Blood by Automated count",
-    "code": "777-3",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C777-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C10*3%2FuL&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|777-3&value-quantity=gt0|http://unitsofmeasure.org|10*3/uL&_summary=count"
-  },
-  {
-    "category": "ObservationLab",
-    "name": "INR in Platelet poor plasma by Coagulation assay",
-    "code": "6301-6",
-    "system": "http://loinc.org",
-    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C6301-6&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7C%7BINR%7D&_summary=count",
-    "query_decoded": "/Observation?code=http://loinc.org|6301-6&value-quantity=gt0|http://unitsofmeasure.org|{INR}&_summary=count"
+    "query": "/Observation?code=http%3A%2F%2Floinc.org%7C48425-3&value-quantity=gt0%7Chttp%3A%2F%2Funitsofmeasure.org%7Cng%2FmL&_summary=count",
+    "query_decoded": "/Observation?code=http://loinc.org|48425-3&value-quantity=gt0|http://unitsofmeasure.org|ng/mL&_summary=count"
   }
 ]
